@@ -193,7 +193,14 @@ a{
     color: var(--hero_logo_clr);
 }
 
-
+    /*      Footer  */
+.footer{
+    padding: 2%;
+    color: var(--hero_logo_clr);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
