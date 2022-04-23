@@ -24,8 +24,8 @@ The concept of flexbox has always been somewhat confusing to me. While I underst
 * The page was meant to be designed for a laptop screens, therefore, it is not responsive yet. It will be improved to adapt to other screen sizes.
 * Instead of using dummy content, this project will be turned into a functional webpage.
 ## Credits
-[Photo](https://www.pexels.com/photo/milky-way-galaxy-above-a-rock-formation-5117913/) by Alex Azabache 
-[Photo](https://www.pexels.com/photo/body-of-water-2524874/) by Jeremy Bishop 
-[Photo](https://www.pexels.com/photo/green-grass-near-trees-1770809/) by Luis Dalvan 
-[Photo](https://www.pexels.com/photo/person-standing-on-sand-during-night-time-4591254/) by Movoyagee 
-[Logo](https://www.flickr.com/photos/ineedair/15693409827) by Philippe Put 
+- [Photo](https://www.pexels.com/photo/milky-way-galaxy-above-a-rock-formation-5117913/) by Alex Azabache 
+- [Photo](https://www.pexels.com/photo/body-of-water-2524874/) by Jeremy Bishop 
+- [Photo](https://www.pexels.com/photo/green-grass-near-trees-1770809/) by Luis Dalvan 
+- [Photo](https://www.pexels.com/photo/person-standing-on-sand-during-night-time-4591254/) by Movoyagee 
+- [Logo](https://www.flickr.com/photos/ineedair/15693409827) by Philippe Put 
