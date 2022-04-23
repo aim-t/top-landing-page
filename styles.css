@@ -150,6 +150,28 @@ a{
     text-align: center;
 }
 
+    /*   Testimonies Section     */
+.testimonies{
+    background-color: var(--hero-subtext-clr);
+    font-size: var(--info-title-font);
+    color: var(--dark-bg);
+    font-weight: var(--quote-weight);
+    font-style: var(--quote-style);
+    display: flex;
+    flex-flow: column;
+    gap:10px;
+    padding: 5% 20%;
+}    
+.quote{
+    margin: 0px; 
+}
+.author{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    align-self: flex-end;
+}
+
 
 
 
