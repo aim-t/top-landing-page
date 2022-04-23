@@ -9,7 +9,7 @@
     --dark-bg: #1f2937;
 
     --hero-size: 48px;
-    --bold-weight: extra-bold;
+    --bold-weight: bold;
     --hero_logo_clr: #f9faf8;
 
     --hero-subtext-size: 18px;
@@ -106,7 +106,7 @@ a{
     background-color: var(--header-btn-bg);    
     color:var(--hero-subtext-clr);
     padding: 8px 20px;
-    border-radius: 4px;
+    border-radius: 8px;
 }
 
     /*             Info-section     */
@@ -172,6 +172,26 @@ a{
     align-self: flex-end;
 }
 
+
+    /*  Call to Action Section  */
+.call-to-action{
+    background-color: var(--header-btn-bg);
+    color: var(--hero_logo_clr);
+    margin: 5% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 3%;
+    border-radius: 10px;
+    gap:20px;
+}    
+.cta-title{
+    font-weight:bold;
+}
+.btn-bottom{
+    border:2px solid  var(--hero_logo_clr) ;
+    color: var(--hero_logo_clr);
+}
 
 
 
