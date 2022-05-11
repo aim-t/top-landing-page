@@ -4,7 +4,7 @@ This project is a simple layout of a landing page using flexbox.
 ## Description
 It is a part of [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
  course for web development.
-## Tech and Tools:
+### Tech and Tools:
 - html
 - CSS
 - VS Code
@@ -15,7 +15,7 @@ It is a part of [The Odin Project](https://www.theodinproject.com/lessons/founda
 This project was built to understand the concepts of flexbox in depth, while practicing a real-world example.
 It definitely worked to  a great extent to remove the gap between theory and practice.
 ### Challanges
-The concept of flexbox has always been somewhat confusing to me. While I understood most of the functionalities, I have yet to overcome my fear of using `flex`. This has made the [header](index.html) look very unresponsive on other screens sizes.
+The concept of flexbox has always been somewhat confusing. While most of the functionalities were understood, using `flex` in general is still a bit unclear. This has made the [header](index.html) look very unresponsive on other screens sizes.
 <img src="img/zoom-out" alt="Header on zoomed out screen" width="800">
 
 <img src="img/small-scr.png" alt="Header on small screen" width="800" height="400">
